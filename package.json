@@ -1,9 +1,9 @@
 {
-  "name": "cjsx-converter",
-  "version": "1.0.2",
+  "name": "@idoyana/cjsx-converter",
+  "version": "1.0.0",
   "description": "Convert Coffee/CJSX into pretty JS/JSX",
   "main": "index.js",
-  "repository": "https://github.com/Gusto/cjsx-converter.git",
+  "repository": "https://github.com/idoyana/cjsx-converter.git",
   "author": "Rylan Collins <rylan@gusto.com>",
   "license": "MIT",
   "scripts": {
